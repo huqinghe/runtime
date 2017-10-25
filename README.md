@@ -12,5 +12,3 @@ objc_storeStrong(id *location, id obj)
     objc_release(prev);
 }
 weak 内部实现
-
-
